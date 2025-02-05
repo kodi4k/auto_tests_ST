@@ -1,2 +1,2 @@
 # auto_tests_ST
-Auto tests from course
+Auto tests from Stepik course
